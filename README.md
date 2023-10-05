@@ -1,6 +1,8 @@
 # Sales-Dashboard
 Sales Visualization :To view click [here](https://app.powerbi.com/view?r=eyJrIjoiMzZmNjk1ZmQtYWE4OS00MzUyLWFlNTUtMThiNmEwNDRhN2QyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
+## Data Download [here](https://drive.google.com/file/d/145icXZlekozs9xTZoOZFvqL9wREm1xOj/view)
+
 ## Problem Statement
 
 ### KPI's Requirements
